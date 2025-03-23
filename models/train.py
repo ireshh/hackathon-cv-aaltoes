@@ -24,9 +24,9 @@ from tqdm import tqdm
 
 # Set seed and define directories
 seed_everything(42)
-TRAIN_IMG_DIR = "./data/train/images"
-TRAIN_MASK_DIR = "./data/train/masks"
-TEST_IMG_DIR = "./data/test/images"
+TRAIN_IMG_DIR = "./train/images"     # updated path
+TRAIN_MASK_DIR = "./train/masks"     # updated path
+TEST_IMG_DIR = "./test/images"       # updated path
 
 NUM_FOLDS = 5
 BATCH_SIZE = 16
