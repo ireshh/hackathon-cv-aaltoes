@@ -1,6 +1,7 @@
 # CV Hackathon Submission
 
-This is our submission to the Aaltoes Computer Vision Hackathon. Our team is 7-2-Off Team participants include Christos Zonias, Iresh Gupta, and Oliver Raffone.
+This is Team 7-2-off and this is our submission to the Aaltoes Computer Vision Hackathon.
+Team participants -> Christos Zonias, Iresh Gupta, and Oliver Raffone.
 
 ## Overview
 
